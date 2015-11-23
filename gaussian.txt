@@ -1,0 +1,6 @@
+You are plotting a Gaussian Distribution with a random number generator in R. 
+
+In probability theory, the Gaussian distribution is a very common continuous probability distribution. The more random numbers are generated, the closer bell-shaped distribution you can get. If you set the mean is 0 and the standard deviation is 1, the Gaussian Distribution can be called a Normal Distribution which is very useful because of the Central Limit Theorem. 
+
+[Ref.] https://en.wikipedia.org/wiki/Normal_distribution
+

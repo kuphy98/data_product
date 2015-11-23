@@ -1,0 +1,5 @@
+You are plotting a Poisson Distribution with a random number generator in R. 
+
+In probability theory, the Poisson Distribution is the discrete probability that expresses the probability of a given number of events occurring in a fixed interval of time and/or space if these events occur with a known average rate and independently of the time since the last event. The bigger lambda value is set, the shape of this histogram is getting closer to the Normal (Gaussian) Distribution. 
+
+[Ref.] https://en.wikipedia.org/wiki/Poisson_distribution

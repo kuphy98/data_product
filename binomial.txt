@@ -1,0 +1,5 @@
+You are plotting a Binomial Distribution with a random number generator in R. 
+
+In probability theory, the Binomial Distribution is the discrete probability of the number of successes in a sequence of 'n' trials with the success probability. When the number of trial is 1, the binomial distribution is a Bernoulli distribution.  
+
+[Ref.] https://en.wikipedia.org/wiki/Binomial_distribution
